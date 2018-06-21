@@ -1,2 +1,2 @@
-# IntelliSense-BETA-
-A project that emulates Visual Studio's IntelliSense functionalities for C#.
+<h1>IntelliSense (BETA)<h1>
+<i>Nibba</i>
